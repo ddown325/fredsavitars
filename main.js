@@ -1,1 +1,1 @@
-// Add JS here
+// I'm ready for your awesome JavaScript code!
